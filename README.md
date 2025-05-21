@@ -32,3 +32,12 @@ http://localhost:8000/otp/verify/email
 
 OTP Verification (SMS):
 http://localhost:8000/otp/verify/sms
+
+php artisan tinker
+
+run command
+npm run dev
+php artisan serve
+
+github link
+https://github.com/Ashokmcaa/Laravel-Task
